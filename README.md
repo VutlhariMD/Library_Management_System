@@ -58,3 +58,6 @@ FROM books
 WHERE available = TRUE;
 
 ### Sprint 4: Update Operations
+* Update books
+SET available=false
+Where id =3
