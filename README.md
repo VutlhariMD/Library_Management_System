@@ -65,3 +65,6 @@ Where id =
 * UPDATE books 
 SET genres = CONCAT(genres ,'Fiction')
 WHERE id = 3;
+* Update patrons 
+SET borrowed_books= array_append(borrowed_books, 8)
+WHERE id= 1;
