@@ -42,3 +42,18 @@ borrowed_books INT[]
 * PATRONS
 <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/eabf16d9-31bc-498f-b67f-98205abe5dfa" />
 
+### Sprint 3: Read Operations (Queries)
+* SELECT *
+FROM books;
+
+* SELECT * FROM books WHERE title= 'The Hobbit';
+  
+* SELECT * FROM books
+WHERE author_id =2;
+
+
+
+* SELECT *
+FROM books
+WHERE available = TRUE;
+
