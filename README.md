@@ -80,3 +80,7 @@ WHERE author_id= 1;
 DELETE 
 FROM authors
 WHERE id= 1;
+
+
+### Sprint 6: Advanced Queries
+
