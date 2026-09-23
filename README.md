@@ -72,3 +72,7 @@ WHERE id= 1;
 * DELETE 
 FROM books
 WHERE title = 'The hobbit';
+
+*DELETE 
+FROM books
+WHERE author_id= 1;
