@@ -91,3 +91,6 @@ WHERE published_year >1950;
 FROM authors
 WHERE nationality LIKE 'American'
 
+* UPDATE books
+SET available = True
+
