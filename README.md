@@ -98,3 +98,6 @@ SET available = True
 FROM books
 WHERE available= True AND published_year > 1950
 
+* SELECT *
+FROM authors
+WHERE name LIKE 'George%'
