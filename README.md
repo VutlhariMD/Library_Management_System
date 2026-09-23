@@ -30,3 +30,15 @@ borrowed_books INT[]
 
 ### Populate the tables with data
 
+* AUTHORS
+* <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/cdbc3dbe-7292-4f7b-8f30-3dcf98406d4e" />
+
+  
+
+* BOOKS
+  <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/3684be2f-626c-4f7a-8799-f91f041be256" />
+
+  
+* PATRONS
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/eabf16d9-31bc-498f-b67f-98205abe5dfa" />
+
