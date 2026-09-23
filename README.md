@@ -87,3 +87,7 @@ WHERE id= 1;
 FROM books
 WHERE published_year >1950;
 
+* SELECT * 
+FROM authors
+WHERE nationality LIKE 'American'
+
