@@ -68,3 +68,7 @@ WHERE id = 3;
 * Update patrons 
 SET borrowed_books= array_append(borrowed_books, 8)
 WHERE id= 1;
+### Sprint 5: Delete Operations
+* DELETE 
+FROM books
+WHERE title = 'The hobbit';
