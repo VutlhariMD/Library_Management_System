@@ -94,3 +94,7 @@ WHERE nationality LIKE 'American'
 * UPDATE books
 SET available = True
 
+* SELECT *
+FROM books
+WHERE available= True AND published_year > 1950
+
