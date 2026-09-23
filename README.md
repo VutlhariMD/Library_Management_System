@@ -83,4 +83,7 @@ WHERE id= 1;
 
 
 ### Sprint 6: Advanced Queries
+* SELECT * 
+FROM books
+WHERE published_year >1950;
 
