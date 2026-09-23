@@ -60,4 +60,8 @@ WHERE available = TRUE;
 ### Sprint 4: Update Operations
 * Update books
 SET available=false
-Where id =3
+Where id =
+
+* UPDATE books 
+SET genres = CONCAT(genres ,'Fiction')
+WHERE id = 3;
